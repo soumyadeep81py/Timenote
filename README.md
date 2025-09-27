@@ -206,12 +206,11 @@ pyinstaller --onefile --console --name="Timenote-Debug" main.py
 
 This project is provided as-is for educational and personal use.
 
-## 🙏 Acknowledgments
-
-- Inspired by [Notion](https://www.notion.so/)
+##  Acknowledgments
 - Built with [PyQt6](https://www.riverbankcomputing.com/software/pyqt/)
 - Uses [PyInstaller](https://www.pyinstaller.org/) for packaging
 
 ---
 
 **Note**: This application is designed specifically for Windows and includes Windows-specific integrations. For the best experience, use Windows 10 or later.
+
