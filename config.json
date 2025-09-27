@@ -1,0 +1,22 @@
+{
+    "window": {
+        "width": 1200,
+        "height": 800,
+        "x": 100,
+        "y": 100
+    },
+    "alarm": {
+        "sound_file": "default_alarm.wav",
+        "volume": 0.8,
+        "snooze_duration": 300
+    },
+    "startup": {
+        "auto_start": false,
+        "minimize_to_tray": true
+    },
+    "ui": {
+        "theme": "dark",
+        "font_size": 12,
+        "sidebar_width": 250
+    }
+}

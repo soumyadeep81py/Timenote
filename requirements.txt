@@ -1,0 +1,14 @@
+# Core GUI Framework
+PyQt6>=6.4.0
+
+# Optional dependencies for enhanced functionality
+plyer>=2.1.0              # Cross-platform notifications
+pygame>=2.1.0             # Audio playback for alarms
+win10toast>=0.9          # Windows 10+ toast notifications
+
+# Development and packaging dependencies (install separately if needed)
+# PyInstaller>=5.0.0      # For creating Windows executable
+# auto-py-to-exe>=2.0.0   # GUI for PyInstaller
+
+# Note: Some dependencies are optional and the app will work without them
+# with reduced functionality
