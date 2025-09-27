@@ -78,11 +78,8 @@ timenote/
 │   ├── alarm.mp3           # Custom alarm sound
 │   └── icon.ico            # App icon (optional)
 ├── scripts/                # Build and utility scripts
-│   └── build_exe.bat       # Executable build script
-└── docs/                   # Documentation
-    ├── BUILD_INSTRUCTIONS.md # Development setup
-    ├── PACKAGING_GUIDE.md  # Executable creation guide
-    └── GITHUB_UPLOAD.md    # GitHub upload instructions
+    └── build_exe.bat       # Executable build script
+
 ```
 
 ## 🛠️ Development
@@ -213,4 +210,5 @@ This project is provided as-is for educational and personal use.
 ---
 
 **Note**: This application is designed specifically for Windows and includes Windows-specific integrations. For the best experience, use Windows 10 or later.
+
 
